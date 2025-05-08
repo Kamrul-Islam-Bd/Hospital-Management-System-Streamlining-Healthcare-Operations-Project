@@ -1,0 +1,6 @@
+@HMSProjectOfMine_HostAddress = http://localhost:5068
+
+GET {{HMSProjectOfMine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

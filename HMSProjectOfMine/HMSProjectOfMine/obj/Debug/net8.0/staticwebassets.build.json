@@ -1,0 +1,1361 @@
+{
+  "Version": 1,
+  "Hash": "qJUG/xPVSWcZSZVpiec0yKkodf50mZ89WeYQH7dfibA=",
+  "Source": "HMSProjectOfMine",
+  "BasePath": "_content/HMSProjectOfMine",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HMSProjectOfMine\\wwwroot",
+      "Source": "HMSProjectOfMine",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\",
+      "BasePath": "_content/HMSProjectOfMine",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\doctors\\3f97a2f4-b699-4b19-9b64-37c366c34ae4.jpg",
+      "SourceId": "HMSProjectOfMine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\",
+      "BasePath": "_content/HMSProjectOfMine",
+      "RelativePath": "images/doctors/3f97a2f4-b699-4b19-9b64-37c366c34ae4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "at4feqgewf",
+      "Integrity": "4kPFPoigMgLV6xQjDpNquBeiD0cX2qQStipJ1kZjub4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\doctors\\3f97a2f4-b699-4b19-9b64-37c366c34ae4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\doctors\\9b924873-ae7d-4b76-a870-3723f991e525.jpeg",
+      "SourceId": "HMSProjectOfMine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\",
+      "BasePath": "_content/HMSProjectOfMine",
+      "RelativePath": "images/doctors/9b924873-ae7d-4b76-a870-3723f991e525#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gm8qvazv3k",
+      "Integrity": "2HqMFZj5FxigzRyBFYPSKfAzBarRv/BpCy25VmQpYWE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\doctors\\9b924873-ae7d-4b76-a870-3723f991e525.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\doctors\\e4065900-9135-46a4-bf4b-80bdf418edf7.png",
+      "SourceId": "HMSProjectOfMine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\",
+      "BasePath": "_content/HMSProjectOfMine",
+      "RelativePath": "images/doctors/e4065900-9135-46a4-bf4b-80bdf418edf7#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1yjzen6c6t",
+      "Integrity": "R8ZbfcwpbW236bUAua6z/WvSs9gObcteALY4PY7sCnw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\doctors\\e4065900-9135-46a4-bf4b-80bdf418edf7.png"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\007a9820-5fcd-4258-a151-531d245149d2.jpeg",
+      "SourceId": "HMSProjectOfMine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\",
+      "BasePath": "_content/HMSProjectOfMine",
+      "RelativePath": "images/registration/007a9820-5fcd-4258-a151-531d245149d2#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3fn4yywru8",
+      "Integrity": "cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\registration\\007a9820-5fcd-4258-a151-531d245149d2.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\13f19c45-d51f-403d-a275-67a14954fcae.jpeg",
+      "SourceId": "HMSProjectOfMine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\",
+      "BasePath": "_content/HMSProjectOfMine",
+      "RelativePath": "images/registration/13f19c45-d51f-403d-a275-67a14954fcae#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kg5njts60o",
+      "Integrity": "ZEKXj0a3EIRcRy/XvoVlJM6hmDPAoychkVNx54dGR1Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\registration\\13f19c45-d51f-403d-a275-67a14954fcae.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\1f3c4407-9ee6-4f6b-a0b5-05975466a902.jpeg",
+      "SourceId": "HMSProjectOfMine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\",
+      "BasePath": "_content/HMSProjectOfMine",
+      "RelativePath": "images/registration/1f3c4407-9ee6-4f6b-a0b5-05975466a902#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u7j8eomc0b",
+      "Integrity": "SqEu8sGO8YASld6zeU2QS3m8R91Y6n0FRJ5f0hfLrIk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\registration\\1f3c4407-9ee6-4f6b-a0b5-05975466a902.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\7147c9a0-1093-48af-b77d-d32f373a2c2d.jpeg",
+      "SourceId": "HMSProjectOfMine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\",
+      "BasePath": "_content/HMSProjectOfMine",
+      "RelativePath": "images/registration/7147c9a0-1093-48af-b77d-d32f373a2c2d#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kg5njts60o",
+      "Integrity": "ZEKXj0a3EIRcRy/XvoVlJM6hmDPAoychkVNx54dGR1Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\registration\\7147c9a0-1093-48af-b77d-d32f373a2c2d.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\7923c169-3586-4847-9285-dc47cd7e2955.jpeg",
+      "SourceId": "HMSProjectOfMine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\",
+      "BasePath": "_content/HMSProjectOfMine",
+      "RelativePath": "images/registration/7923c169-3586-4847-9285-dc47cd7e2955#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3fn4yywru8",
+      "Integrity": "cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\registration\\7923c169-3586-4847-9285-dc47cd7e2955.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\80faf18e-e55e-4d9d-a5a8-3f893649401c.jpeg",
+      "SourceId": "HMSProjectOfMine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\",
+      "BasePath": "_content/HMSProjectOfMine",
+      "RelativePath": "images/registration/80faf18e-e55e-4d9d-a5a8-3f893649401c#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3fn4yywru8",
+      "Integrity": "cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\registration\\80faf18e-e55e-4d9d-a5a8-3f893649401c.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\98aeda90-18b3-4435-bcfe-c661049c1e18.jpeg",
+      "SourceId": "HMSProjectOfMine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\",
+      "BasePath": "_content/HMSProjectOfMine",
+      "RelativePath": "images/registration/98aeda90-18b3-4435-bcfe-c661049c1e18#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "beow680y1s",
+      "Integrity": "g6l7lzYVyUc7thVPf+VdEk/Kydpqipo2RwIEUZgSAjM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\registration\\98aeda90-18b3-4435-bcfe-c661049c1e18.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\9fe5c4c0-0d67-4b20-a60c-d2db8d385fad.png",
+      "SourceId": "HMSProjectOfMine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\",
+      "BasePath": "_content/HMSProjectOfMine",
+      "RelativePath": "images/registration/9fe5c4c0-0d67-4b20-a60c-d2db8d385fad#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ry7jz1nkwv",
+      "Integrity": "7TlD7avvtaaqiErd5X5gtlDbh5AFSCeptXOjKIxPw8s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\registration\\9fe5c4c0-0d67-4b20-a60c-d2db8d385fad.png"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\a8b6ab4b-d5f0-45cd-83de-3608e588f2e1.jpeg",
+      "SourceId": "HMSProjectOfMine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\",
+      "BasePath": "_content/HMSProjectOfMine",
+      "RelativePath": "images/registration/a8b6ab4b-d5f0-45cd-83de-3608e588f2e1#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kg5njts60o",
+      "Integrity": "ZEKXj0a3EIRcRy/XvoVlJM6hmDPAoychkVNx54dGR1Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\registration\\a8b6ab4b-d5f0-45cd-83de-3608e588f2e1.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\bd22c769-2a7d-4b0f-8b57-e91f3e4040e4.jpeg",
+      "SourceId": "HMSProjectOfMine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\",
+      "BasePath": "_content/HMSProjectOfMine",
+      "RelativePath": "images/registration/bd22c769-2a7d-4b0f-8b57-e91f3e4040e4#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3fn4yywru8",
+      "Integrity": "cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\registration\\bd22c769-2a7d-4b0f-8b57-e91f3e4040e4.jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/doctors/3f97a2f4-b699-4b19-9b64-37c366c34ae4.at4feqgewf.jpg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\doctors\\3f97a2f4-b699-4b19-9b64-37c366c34ae4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4kPFPoigMgLV6xQjDpNquBeiD0cX2qQStipJ1kZjub4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 04:42:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "at4feqgewf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/doctors/3f97a2f4-b699-4b19-9b64-37c366c34ae4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4kPFPoigMgLV6xQjDpNquBeiD0cX2qQStipJ1kZjub4="
+        }
+      ]
+    },
+    {
+      "Route": "images/doctors/3f97a2f4-b699-4b19-9b64-37c366c34ae4.jpg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\doctors\\3f97a2f4-b699-4b19-9b64-37c366c34ae4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4kPFPoigMgLV6xQjDpNquBeiD0cX2qQStipJ1kZjub4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 04:42:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4kPFPoigMgLV6xQjDpNquBeiD0cX2qQStipJ1kZjub4="
+        }
+      ]
+    },
+    {
+      "Route": "images/doctors/9b924873-ae7d-4b76-a870-3723f991e525.gm8qvazv3k.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\doctors\\9b924873-ae7d-4b76-a870-3723f991e525.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2HqMFZj5FxigzRyBFYPSKfAzBarRv/BpCy25VmQpYWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 06:25:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gm8qvazv3k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/doctors/9b924873-ae7d-4b76-a870-3723f991e525.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2HqMFZj5FxigzRyBFYPSKfAzBarRv/BpCy25VmQpYWE="
+        }
+      ]
+    },
+    {
+      "Route": "images/doctors/9b924873-ae7d-4b76-a870-3723f991e525.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\doctors\\9b924873-ae7d-4b76-a870-3723f991e525.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2HqMFZj5FxigzRyBFYPSKfAzBarRv/BpCy25VmQpYWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 06:25:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2HqMFZj5FxigzRyBFYPSKfAzBarRv/BpCy25VmQpYWE="
+        }
+      ]
+    },
+    {
+      "Route": "images/doctors/e4065900-9135-46a4-bf4b-80bdf418edf7.1yjzen6c6t.png",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\doctors\\e4065900-9135-46a4-bf4b-80bdf418edf7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R8ZbfcwpbW236bUAua6z/WvSs9gObcteALY4PY7sCnw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 05:10:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1yjzen6c6t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/doctors/e4065900-9135-46a4-bf4b-80bdf418edf7.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R8ZbfcwpbW236bUAua6z/WvSs9gObcteALY4PY7sCnw="
+        }
+      ]
+    },
+    {
+      "Route": "images/doctors/e4065900-9135-46a4-bf4b-80bdf418edf7.png",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\doctors\\e4065900-9135-46a4-bf4b-80bdf418edf7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R8ZbfcwpbW236bUAua6z/WvSs9gObcteALY4PY7sCnw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 05:10:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R8ZbfcwpbW236bUAua6z/WvSs9gObcteALY4PY7sCnw="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/007a9820-5fcd-4258-a151-531d245149d2.3fn4yywru8.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\007a9820-5fcd-4258-a151-531d245149d2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:38:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3fn4yywru8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/registration/007a9820-5fcd-4258-a151-531d245149d2.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/007a9820-5fcd-4258-a151-531d245149d2.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\007a9820-5fcd-4258-a151-531d245149d2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:38:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/13f19c45-d51f-403d-a275-67a14954fcae.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\13f19c45-d51f-403d-a275-67a14954fcae.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "256244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZEKXj0a3EIRcRy/XvoVlJM6hmDPAoychkVNx54dGR1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:16:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZEKXj0a3EIRcRy/XvoVlJM6hmDPAoychkVNx54dGR1Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/13f19c45-d51f-403d-a275-67a14954fcae.kg5njts60o.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\13f19c45-d51f-403d-a275-67a14954fcae.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "256244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZEKXj0a3EIRcRy/XvoVlJM6hmDPAoychkVNx54dGR1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:16:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kg5njts60o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/registration/13f19c45-d51f-403d-a275-67a14954fcae.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZEKXj0a3EIRcRy/XvoVlJM6hmDPAoychkVNx54dGR1Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/1f3c4407-9ee6-4f6b-a0b5-05975466a902.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\1f3c4407-9ee6-4f6b-a0b5-05975466a902.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SqEu8sGO8YASld6zeU2QS3m8R91Y6n0FRJ5f0hfLrIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SqEu8sGO8YASld6zeU2QS3m8R91Y6n0FRJ5f0hfLrIk="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/1f3c4407-9ee6-4f6b-a0b5-05975466a902.u7j8eomc0b.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\1f3c4407-9ee6-4f6b-a0b5-05975466a902.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SqEu8sGO8YASld6zeU2QS3m8R91Y6n0FRJ5f0hfLrIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u7j8eomc0b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/registration/1f3c4407-9ee6-4f6b-a0b5-05975466a902.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SqEu8sGO8YASld6zeU2QS3m8R91Y6n0FRJ5f0hfLrIk="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/7147c9a0-1093-48af-b77d-d32f373a2c2d.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\7147c9a0-1093-48af-b77d-d32f373a2c2d.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "256244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZEKXj0a3EIRcRy/XvoVlJM6hmDPAoychkVNx54dGR1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZEKXj0a3EIRcRy/XvoVlJM6hmDPAoychkVNx54dGR1Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/7147c9a0-1093-48af-b77d-d32f373a2c2d.kg5njts60o.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\7147c9a0-1093-48af-b77d-d32f373a2c2d.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "256244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZEKXj0a3EIRcRy/XvoVlJM6hmDPAoychkVNx54dGR1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kg5njts60o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/registration/7147c9a0-1093-48af-b77d-d32f373a2c2d.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZEKXj0a3EIRcRy/XvoVlJM6hmDPAoychkVNx54dGR1Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/7923c169-3586-4847-9285-dc47cd7e2955.3fn4yywru8.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\7923c169-3586-4847-9285-dc47cd7e2955.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:20:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3fn4yywru8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/registration/7923c169-3586-4847-9285-dc47cd7e2955.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/7923c169-3586-4847-9285-dc47cd7e2955.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\7923c169-3586-4847-9285-dc47cd7e2955.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:20:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/80faf18e-e55e-4d9d-a5a8-3f893649401c.3fn4yywru8.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\80faf18e-e55e-4d9d-a5a8-3f893649401c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:38:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3fn4yywru8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/registration/80faf18e-e55e-4d9d-a5a8-3f893649401c.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/80faf18e-e55e-4d9d-a5a8-3f893649401c.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\80faf18e-e55e-4d9d-a5a8-3f893649401c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:38:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/98aeda90-18b3-4435-bcfe-c661049c1e18.beow680y1s.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\98aeda90-18b3-4435-bcfe-c661049c1e18.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g6l7lzYVyUc7thVPf+VdEk/Kydpqipo2RwIEUZgSAjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "beow680y1s"
+        },
+        {
+          "Name": "label",
+          "Value": "images/registration/98aeda90-18b3-4435-bcfe-c661049c1e18.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g6l7lzYVyUc7thVPf+VdEk/Kydpqipo2RwIEUZgSAjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/98aeda90-18b3-4435-bcfe-c661049c1e18.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\98aeda90-18b3-4435-bcfe-c661049c1e18.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g6l7lzYVyUc7thVPf+VdEk/Kydpqipo2RwIEUZgSAjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g6l7lzYVyUc7thVPf+VdEk/Kydpqipo2RwIEUZgSAjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/9fe5c4c0-0d67-4b20-a60c-d2db8d385fad.png",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\9fe5c4c0-0d67-4b20-a60c-d2db8d385fad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7TlD7avvtaaqiErd5X5gtlDbh5AFSCeptXOjKIxPw8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 08:39:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7TlD7avvtaaqiErd5X5gtlDbh5AFSCeptXOjKIxPw8s="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/9fe5c4c0-0d67-4b20-a60c-d2db8d385fad.ry7jz1nkwv.png",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\9fe5c4c0-0d67-4b20-a60c-d2db8d385fad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7TlD7avvtaaqiErd5X5gtlDbh5AFSCeptXOjKIxPw8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 08:39:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ry7jz1nkwv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/registration/9fe5c4c0-0d67-4b20-a60c-d2db8d385fad.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7TlD7avvtaaqiErd5X5gtlDbh5AFSCeptXOjKIxPw8s="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/a8b6ab4b-d5f0-45cd-83de-3608e588f2e1.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\a8b6ab4b-d5f0-45cd-83de-3608e588f2e1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "256244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZEKXj0a3EIRcRy/XvoVlJM6hmDPAoychkVNx54dGR1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:35:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZEKXj0a3EIRcRy/XvoVlJM6hmDPAoychkVNx54dGR1Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/a8b6ab4b-d5f0-45cd-83de-3608e588f2e1.kg5njts60o.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\a8b6ab4b-d5f0-45cd-83de-3608e588f2e1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "256244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZEKXj0a3EIRcRy/XvoVlJM6hmDPAoychkVNx54dGR1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:35:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kg5njts60o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/registration/a8b6ab4b-d5f0-45cd-83de-3608e588f2e1.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZEKXj0a3EIRcRy/XvoVlJM6hmDPAoychkVNx54dGR1Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/bd22c769-2a7d-4b0f-8b57-e91f3e4040e4.3fn4yywru8.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\bd22c769-2a7d-4b0f-8b57-e91f3e4040e4.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:21:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3fn4yywru8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/registration/bd22c769-2a7d-4b0f-8b57-e91f3e4040e4.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration/bd22c769-2a7d-4b0f-8b57-e91f3e4040e4.jpeg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\bd22c769-2a7d-4b0f-8b57-e91f3e4040e4.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 11:21:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cca6kn4LUhSsmyruggwznDhQoVaZ0j1RloX0sA7vHKU="
+        }
+      ]
+    }
+  ]
+}

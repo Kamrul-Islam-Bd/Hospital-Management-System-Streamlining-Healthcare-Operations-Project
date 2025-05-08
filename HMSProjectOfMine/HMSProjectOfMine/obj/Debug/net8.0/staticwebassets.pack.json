@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\doctors\\3f97a2f4-b699-4b19-9b64-37c366c34ae4.jpg",
+      "PackagePath": "staticwebassets\\images\\doctors\\3f97a2f4-b699-4b19-9b64-37c366c34ae4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\doctors\\9b924873-ae7d-4b76-a870-3723f991e525.jpeg",
+      "PackagePath": "staticwebassets\\images\\doctors\\9b924873-ae7d-4b76-a870-3723f991e525.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\doctors\\e4065900-9135-46a4-bf4b-80bdf418edf7.png",
+      "PackagePath": "staticwebassets\\images\\doctors\\e4065900-9135-46a4-bf4b-80bdf418edf7.png"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\007a9820-5fcd-4258-a151-531d245149d2.jpeg",
+      "PackagePath": "staticwebassets\\images\\registration\\007a9820-5fcd-4258-a151-531d245149d2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\13f19c45-d51f-403d-a275-67a14954fcae.jpeg",
+      "PackagePath": "staticwebassets\\images\\registration\\13f19c45-d51f-403d-a275-67a14954fcae.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\1f3c4407-9ee6-4f6b-a0b5-05975466a902.jpeg",
+      "PackagePath": "staticwebassets\\images\\registration\\1f3c4407-9ee6-4f6b-a0b5-05975466a902.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\7147c9a0-1093-48af-b77d-d32f373a2c2d.jpeg",
+      "PackagePath": "staticwebassets\\images\\registration\\7147c9a0-1093-48af-b77d-d32f373a2c2d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\7923c169-3586-4847-9285-dc47cd7e2955.jpeg",
+      "PackagePath": "staticwebassets\\images\\registration\\7923c169-3586-4847-9285-dc47cd7e2955.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\80faf18e-e55e-4d9d-a5a8-3f893649401c.jpeg",
+      "PackagePath": "staticwebassets\\images\\registration\\80faf18e-e55e-4d9d-a5a8-3f893649401c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\98aeda90-18b3-4435-bcfe-c661049c1e18.jpeg",
+      "PackagePath": "staticwebassets\\images\\registration\\98aeda90-18b3-4435-bcfe-c661049c1e18.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\9fe5c4c0-0d67-4b20-a60c-d2db8d385fad.png",
+      "PackagePath": "staticwebassets\\images\\registration\\9fe5c4c0-0d67-4b20-a60c-d2db8d385fad.png"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\a8b6ab4b-d5f0-45cd-83de-3608e588f2e1.jpeg",
+      "PackagePath": "staticwebassets\\images\\registration\\a8b6ab4b-d5f0-45cd-83de-3608e588f2e1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\wwwroot\\images\\registration\\bd22c769-2a7d-4b0f-8b57-e91f3e4040e4.jpeg",
+      "PackagePath": "staticwebassets\\images\\registration\\bd22c769-2a7d-4b0f-8b57-e91f3e4040e4.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HMSProjectOfMine.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HMSProjectOfMine.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HMSProjectOfMine.props",
+      "PackagePath": "build\\HMSProjectOfMine.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HMSProjectOfMine.props",
+      "PackagePath": "buildMultiTargeting\\HMSProjectOfMine.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HMSProjectOfMine.props",
+      "PackagePath": "buildTransitive\\HMSProjectOfMine.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

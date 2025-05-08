@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\customclass\\nationalitystringenumschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\customclass\\nationalitystringenumschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\customclass\\enumdisplayschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\customclass\\enumdisplayschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\enums\\patienttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\enums\\patienttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\hmsprojectofmine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\hmsprojectofmine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\controllers\\testbillingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\controllers\\testbillingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\controllers\\testreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\controllers\\testreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\dtos\\prescriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\dtos\\prescriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\dtos\\testreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\dtos\\testreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\dtos\\testbillingdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\dtos\\testbillingdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\dtos\\testbillingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\dtos\\testbillingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\dtos\\testdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\dtos\\testdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|c:\\users\\walton\\desktop\\project_submite\\project_submite\\hmsprojectofmine\\hmsprojectofmine\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3ADBE1-9443-45AC-A09C-615C55A697A4}|HMSProjectOfMine\\HMSProjectOfMine.csproj|solutionrelative:hmsprojectofmine\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NationalityStringEnumSchemaFilter.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\CustomClass\\NationalityStringEnumSchemaFilter.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\CustomClass\\NationalityStringEnumSchemaFilter.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\CustomClass\\NationalityStringEnumSchemaFilter.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\CustomClass\\NationalityStringEnumSchemaFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:40:42.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnumDisplaySchemaFilter.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\CustomClass\\EnumDisplaySchemaFilter.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\CustomClass\\EnumDisplaySchemaFilter.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\CustomClass\\EnumDisplaySchemaFilter.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\CustomClass\\EnumDisplaySchemaFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:40:41.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAI4BAAAAAAAAAAAiwKoBAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:40:21.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientType.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Enums\\PatientType.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\Enums\\PatientType.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Enums\\PatientType.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\Enums\\PatientType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:40:12.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:40:04.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Program.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\Program.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Program.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:39:42.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HMSProjectOfMine.csproj",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\HMSProjectOfMine.csproj",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\HMSProjectOfMine.csproj",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\HMSProjectOfMine.csproj",
+              "RelativeToolTip": "HMSProjectOfMine\\HMSProjectOfMine.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T13:39:20.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\appsettings.json",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\appsettings.json",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\appsettings.json",
+              "RelativeToolTip": "HMSProjectOfMine\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T13:38:27.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestBillingsController.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Controllers\\TestBillingsController.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\Controllers\\TestBillingsController.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Controllers\\TestBillingsController.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\Controllers\\TestBillingsController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAiwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:06:31.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationsController.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Controllers\\RegistrationsController.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\Controllers\\RegistrationsController.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Controllers\\RegistrationsController.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\Controllers\\RegistrationsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:06:31.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestsController.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Controllers\\TestsController.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\Controllers\\TestsController.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Controllers\\TestsController.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\Controllers\\TestsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:58:41.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Models\\Prescription.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\Models\\Prescription.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Models\\Prescription.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\Models\\Prescription.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:56:35.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrescriptionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\DTOs\\PrescriptionDTO.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\DTOs\\PrescriptionDTO.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\DTOs\\PrescriptionDTO.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\DTOs\\PrescriptionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:56:26.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestReportDTO.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\DTOs\\TestReportDTO.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\DTOs\\TestReportDTO.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\DTOs\\TestReportDTO.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\DTOs\\TestReportDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:55:12.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Controllers\\TestReportsController.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\Controllers\\TestReportsController.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Controllers\\TestReportsController.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\Controllers\\TestReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:54:18.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestBillingDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\DTOs\\TestBillingDetailDTO.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\DTOs\\TestBillingDetailDTO.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\DTOs\\TestBillingDetailDTO.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\DTOs\\TestBillingDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:53:39.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestBillingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\DTOs\\TestBillingDTO.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\DTOs\\TestBillingDTO.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\DTOs\\TestBillingDTO.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\DTOs\\TestBillingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:53:28.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\DTOs\\TestDTO.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\DTOs\\TestDTO.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\DTOs\\TestDTO.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\DTOs\\TestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:53:14.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "HMSProjectOfMine\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Project_Submite\\Project_Submite\\HMSProjectOfMine\\HMSProjectOfMine\\Models\\Test.cs",
+              "RelativeToolTip": "HMSProjectOfMine\\Models\\Test.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:51:33.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
